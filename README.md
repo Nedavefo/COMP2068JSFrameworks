@@ -17,4 +17,4 @@ node LAB02/LAB01.js
 node LAB03/server.js
 ```
 
-Example request for LAB03: `http://localhost:/?method=add&x=2&y=3`
+Example request for LAB03: `http://localhost:3000/lab3?method=add&x=2&y=3`
